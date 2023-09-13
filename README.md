@@ -1,16 +1,19 @@
-# Título do Projeto
+# Guia do Mochileiro da TI
 
 `CURSO`
+Analise e Desenvolvimento de Sistemas
 
 `DISCIPLINA`
+Desenvolvimento de Aplicação Web Front-End
 
 `SEMESTRE`
+I semestre
 
 Descrever resumidamente, em um ou dois parágrafos, o projeto desenvolvido.
 
 ## Integrantes
 
-* Nome completo do aluno 1
+* Amaury Vinicius Costa Magno
 * Nome completo do aluno 2
 * Nome completo do aluno 3
 * Nome completo do aluno 4
@@ -19,7 +22,7 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto desenvolvido.
 
 ## Orientador
 
-* Nome completo do professor
+* Marco Rodrigo Costa
 
 # Documentação
 
