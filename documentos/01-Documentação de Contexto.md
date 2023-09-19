@@ -12,13 +12,20 @@ Por que aprender e como aprender?
 
 
 ## Objetivos
+
 • Ensinar e guiar aqueles que fazem ou desejam ser parte do meio de TI, explicando as dimensões e a importância de seu papel, demonstrar como superar seus desafios e 
  como encontrar seus próximos passos para continuar progredindo, enquanto nós progredimos junto aos leitores.
+ 
 • Compartilhar as técnicas de aprendizado e de estudo que usamos em nosso curso e que usaremos em nossos futuros empregos no ramo.
+
 • Instruções de como montar uma rotina saudável de aprendizado e como conciliar o trabalho e os estudos gerenciando o tempo.
+
 • Compartilhar estudos de caso que achamos interessantes e também dar espaço aos usuários para compartilhar os que chamaram sua atenção.
+
 • Introduzir aulas básicas explicativas sobre linguagens de nosso conhecimento e outras tecnologias essenciais, exemplo; C#, Python, CSS HTML JavaScript, VS code...
+
 • Recomendar conteúdo cuja qualidade foi aprovada pelos criadores do site.
+
 • Dar espaço para discussões sobre assuntos diversos.
 
 
